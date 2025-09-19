@@ -5,8 +5,6 @@ Este repositorio contiene un script que implementa modelos de pronóstico de cal
 
 🧪 Paquetes utilizados
 
-Python 3.x
-
 PyTorch (implementación de redes neuronales)
 
 Pandas, NumPy, Matplotlib (procesamiento y visualización)
